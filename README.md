@@ -1,3 +1,15 @@
+# State of Data Brasil 2024-2025
+### Contexto
+
+- Fonte dos dados: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
+- Os dados são fornecem um panorma sobre o mercado de trabalho brasileiro na área de Dados.
+
+### Objetivos da Análise
+
+- Entender quais são os fatores relacionados à remuneração dos profissionais que estão atuando como funcionários CLT.
+- Quais decisões os profissionais de dados podem tomar durante a carreira para aumentar a probilidade de remunerações maiores?
+
+
 # Modelo de projeto de ciência de dados
 
 Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
