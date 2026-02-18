@@ -10,17 +10,7 @@
 - Quais decisões os profissionais de dados podem tomar durante a carreira para aumentar a probilidade de remunerações maiores?
 
 
-# Modelo de projeto de ciência de dados
-
-Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
-futuros. Desenvolvido por mim, [Francisco Bustamante](https://github.com/chicolucio),
-para alunos iniciantes em ciência de dados de meus cursos e mentorias.
-
-Inspiração: [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
-
-Clique no botão **Use this template** para criar um novo repositório com base neste modelo.
-
-## Organização do projeto
+#### Organização do projeto
 
 ```
 ├── .env               <- Arquivo de variáveis de ambiente (não versionar)
